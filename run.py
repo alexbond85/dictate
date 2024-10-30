@@ -9,6 +9,7 @@ import tempfile
 from pynput import keyboard
 
 
+
 class DictationApp(rumps.App):
     def __init__(self):
         super(DictationApp, self).__init__("Dictation", icon="mic_off.png")
