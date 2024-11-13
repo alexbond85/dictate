@@ -142,4 +142,4 @@ class DictationApp(rumps.App):
 
 
 if __name__ == "__main__":
-    DictationApp().run()  #  Hey, how are you doing today? Oh, not much. Okay, okay. So then, see you later. Bye-bye.
+    DictationApp().run()
